@@ -5,7 +5,7 @@
 ### Education
 
 - B.S. in Ewha Woman’s University (2022~present)
-    - *Major in Artificial Inteligence*
+    - Major in Artificial Inteligence
 - Sookmyung Woman’s High School, Seoul (2018~2022)
 
 ---
@@ -29,21 +29,29 @@
 
 ---
 
+### Work Experience
+
+### [Naver Z](https://naverz-corp.com/) (2023.7 ~ 2023.8)
+
+- Fine-tune Stable diffusion & Create LoRA for ZEP object generation
+    - Data Preprocessing, Training models, etc.
+- Advancing [Chatbots](https://www.aitown.app/) based on Prompt Engineering
+
+---
+
 ### Contact
 
 > E-Mail : [mydianaoh@ewha.ac.kr](mailto:mydianaoh@ewha.ac.kr) or [dianaoh1021@gmail.com](mailto:dianaoh1021@gmail.com)
 > 
 
-> Github : https://github.com/finallyupper
+> Github : [https://github.com/finallyupper](https://github.com/finallyupper)
 > 
 
-> LinkedIn : https://www.linkedin.com/in/yoojin-oh-228991262/
+> LinkedIn : [https://www.linkedin.com/in/yoojin-oh-228991262/](https://www.linkedin.com/in/yoojin-oh-228991262/)
 > 
 
-> Tech blog : https://finallyupper.tistory.com/
+> Tech blog : [https://finallyupper.tistory.com/](https://finallyupper.tistory.com/)
 >
-
----
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

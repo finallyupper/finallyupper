@@ -14,7 +14,6 @@ I am Yoojin Oh, an undergraduate student majoring in Artificial Intelligence at 
 
 ### Research Interests
 
-- Computer Vision
 - Generative Models
 - Robust Learning
 - Self/Semi-supervised Learning
@@ -35,11 +34,11 @@ I am Yoojin Oh, an undergraduate student majoring in Artificial Intelligence at 
 ### Work Experience
 ### [Spresto](https://www.spresto.net/) (2024.7 ~ present)
 - Research Intern 
-- Develop a Spycam detection model to prevent illegal filming.
+- Develop a Spycam detection model to prevent illegal filming.  
+    
 ### [Naver Z](https://naverz-corp.com/) (2023.7 ~ 2023.8)
 
 - Fine-tune Stable diffusion & Create LoRA for ZEP object generation
-    - Data Preprocessing, Training models, etc.
 - Advancing [Chatbots](https://www.aitown.app/) based on Prompt Engineering techniques.
 
 ---

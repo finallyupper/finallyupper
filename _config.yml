@@ -8,7 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/finallyupper">Github</a>
   <br>
   <a href="https://www.linkedin.com/in/yoojin-oh-228991262/">LinkedIn Profile</a> 
-  
+  <br>
+  <a href="https://drive.google.com/file/d/1CFO37cR9RQ6pzYkUV1p1fw_nxwluizGU/view?usp=sharing">CV</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

@@ -36,7 +36,7 @@ I am Yoojin Oh, an undergraduate student majoring in Artificial Intelligence at 
 - Research Intern 
 - Develop a Spycam detection model to prevent illegal filming.  
     
-### [Naver Z](https://naverz-corp.com/) (2023.7 ~ 2023.8)
+### [Naver Z](https://naverz-corp.com/) (2023.7 ~ 2023.8)  
 
 - Fine-tune Stable diffusion & Create LoRA for ZEP object generation
 - Advancing [Chatbots](https://www.aitown.app/) based on Prompt Engineering techniques.
